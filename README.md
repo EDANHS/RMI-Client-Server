@@ -1,9 +1,9 @@
 # RMI-Client-Server
-Client-Server architecture using RMI
+Client-Server architecture using RMI.
 
 ## Members:
-1. Matias Bugueño
-2. Thomas Molina
+1. Matias Bugueño.
+2. Thomas Molina.
 
 # Code execution
 Import project to Eclipse and run RunServer as a Java application, then do the same with RunClient.
